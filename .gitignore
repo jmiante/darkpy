@@ -1,5 +1,6 @@
 *.pyc
 build/
+dist/
 
-relativedate.egg-info/
+darkpy.egg-info/
 .version/
