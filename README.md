@@ -14,7 +14,7 @@
 
 <hr>
 <b>Installation:</b>
-<p>pip install pyline</p>
+<p>pip install darkpy</p>
 
 <hr><hr>
 <h3> PT-BR </h3>
@@ -25,7 +25,7 @@
 
 <hr>
 <b>Instalação:</b>
-<p>pip install pyline</p>
+<p>pip install darkpy</p>
 
 <hr>
 <hr>
