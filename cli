@@ -7,6 +7,4 @@ twine upload dist/*
 
 
 python setup.py sdist bdist_wheel
-twine upload dist/*-0.0.2*
-
 twine upload dist/*

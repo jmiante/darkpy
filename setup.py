@@ -7,10 +7,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='darkpy',
-    version='0.1.8',
+    version='0.1.9',
     description='DarkPy is a Python library which brings some useful calculations',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    packages=['darkpy', 'darkpy.date', 'darkpy.math'],
+    packages=['darkpy', 'darkpy.date', 'darkpy.math', 'darkpy.text'],
     install_requires=[],
 )
